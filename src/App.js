@@ -1,12 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
 
-import FoorLoop from './Practice/FoorLoop';
+import UnControlledComp from './Component/UnControlledComp';
 
 function Apple(){
   return(  
       <div className='App'>  
-      <FoorLoop/>    
+      <UnControlledComp/>    
       </div>  
                           
   )
